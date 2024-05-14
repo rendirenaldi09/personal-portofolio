@@ -93,20 +93,20 @@ export const Projects = () => {
                       </Tab.Pane>
                       <Tab.Pane eventKey="section">
                         <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Cumque quam, quod neque provident velit, rem
-                          explicabo excepturi id illo molestiae blanditiis,
-                          eligendi dicta officiis asperiores delectus quasi
-                          inventore debitis quo.
+                          Frontend memainkan peran penting dalam menghidupkan
+                          situs web dan aplikasi. Mereka bertanggung jawab untuk
+                          merancang dan menerapkan aspek produk digital yang
+                          dihadapi pengguna, memastikan bahwa pengalaman
+                          pengguna lancar dan menarik secara visual.
                         </p>
                       </Tab.Pane>
                       <Tab.Pane eventKey="third">
                         <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Cumque quam, quod neque provident velit, rem
-                          explicabo excepturi id illo molestiae blanditiis,
-                          eligendi dicta officiis asperiores delectus quasi
-                          inventore debitis quo.
+                          Frontend memainkan peran penting dalam menghidupkan
+                          situs web dan aplikasi. Mereka bertanggung jawab untuk
+                          merancang dan menerapkan aspek produk digital yang
+                          dihadapi pengguna, memastikan bahwa pengalaman
+                          pengguna lancar dan menarik secara visual.
                         </p>
                       </Tab.Pane>
                     </Tab.Content>
